@@ -1,6 +1,4 @@
-由 @ouuan 发布于洛谷剪贴板 <https://www.luogu.org/paste/sxvu97yz>
-
-转自 [vfk《一场CF的台前幕后》](http://subblogvfleakingm92.lofter.com/post/1fe229e7_12acee48c)
+转自 [vfk《一场CF的台前幕后》](https://blog.csdn.net/VFleaKing/article/details/90521383)
 
 
 ------
