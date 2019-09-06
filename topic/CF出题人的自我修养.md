@@ -2,7 +2,10 @@
 
 转自 [vfk《一场CF的台前幕后》](http://subblogvfleakingm92.lofter.com/post/1fe229e7_12acee48c)
 
-> 1. 准备一场CF包括：题目、比赛通知、题解。
+
+------
+
+1. 准备一场CF包括：题目、比赛通知、题解。
 2. 你的题目必须是独一无二的。你不能从以前用过的题目中抄袭它的想法。PLEASE BE FAIR WITH THE COMMUNITY。
 3. 空间限制必须是256MB，时间限制至少是出题人的java程序运行时间的两倍。
 4. 题面必须清晰好懂，没有语法错误。
